@@ -24,12 +24,12 @@ body {
 .blue_color {
     height:50%;
      width:50%;
-    background-color:#4682B4;
+    background-color:blue;
 }
 
 .white_color {
     height:50%;
     width:50%;
-    background-color:#FF0000;
+    background-color:#white;
 }
     
