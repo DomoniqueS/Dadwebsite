@@ -28,8 +28,8 @@ body {
 }
 
 .red_color {
-    height:20%;
-    width:50%;
-    background-color:#red;
+    height:100vh;
+    width:50vw;
+    background-color:red;
 }
     
