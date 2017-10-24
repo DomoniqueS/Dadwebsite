@@ -10,7 +10,7 @@ body {
     width:50vw;
     display:flex;
     flex-wrap:wrap;
-    background-color:cornsilk;
+    background-color:black;
 }
 
 .col-2 {
@@ -18,7 +18,7 @@ body {
     width:50vw;
     display:flex;
     flex-wrap:wrap;
-    background-color:cornsilk;
+    background-color:black;
 }
 
 .blue_color {
